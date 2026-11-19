@@ -1,1 +1,11 @@
-
+.app img, .app p {
+    display:flex;
+    margin:auto;
+}
+.app p {
+    text-align:center;
+    margin:auto
+}
+.app {
+    width:60px;
+}

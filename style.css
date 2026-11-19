@@ -1,5 +1,4 @@
 .app img, .app p {
-    display:flex;
     margin:auto;
 }
 .app p {
@@ -8,4 +7,15 @@
 }
 .app {
     width:60px;
+    justify-content:center;
+}
+#apps {
+    width: 300px;
+    background-color:blue;
+}
+#app1, #app2, #app3 {
+    float:right;
+}
+#app4, #app5 {
+    float:right;
 }

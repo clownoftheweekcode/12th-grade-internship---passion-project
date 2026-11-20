@@ -14,7 +14,7 @@
     background-color:blue;
 }
 #app1, #app2, #app3 {
-    float:right;
+    float:left;
 }
 #app4, #app5 {
     float:right;
